@@ -1,6 +1,6 @@
 {
-    "name": "hootlex/laravel-friendships",
-    "description": "This package gives Eloquent models the ability to manage their friendships.",
+    "name": "blok/laravel-friendable",
+    "description": "This package gives Eloquent models the ability to manage friendships concept forked from hootlex/laravel-friendships.",
     "keywords": ["laravel", "friendships", "friend-system", "friends", "eloquent"],
     "license": "MIT",
     "authors": [
@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hootlex\\Friendships\\": "src/"
+            "Blok\\Friendable\\": "src/"
         }
     },
     "autoload-dev": {
