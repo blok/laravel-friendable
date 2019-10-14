@@ -33,5 +33,13 @@
             "Blok\\Friendable\\": "src/"
         }
     },
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Blok\\Friendable\\FriendshipsServiceProvider.php"
+            ]
+        }
+    },
     "minimum-stability": "stable"
 }
